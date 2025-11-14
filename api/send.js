@@ -13,7 +13,7 @@ module.exports = async (req, res) => {
   }
 
   try {
-    const WEBHOOK_URL = "https://discord.com/api/webhooks/1438738516128301288/YA0y_MJbCqZVt8wslVRTleraE2o7Qr80pjXndp3MNSTY40K_0GWSUCkbYrZOCJRgBQr5";
+    const WEBHOOK_URL = "https://discord.com/api/webhooks/1438936024632922214/W5UcX4j7S0SIU9WRIcMnq21MUwl6vDAg3lGPx9jXOWEsSQo-ozFXCPxhbYdfVUp0m_tM";
     const SECRET_KEY = "alves_secret_2024_brazil";
 
     const { data, authKey, session, player } = req.body;
