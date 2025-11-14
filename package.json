@@ -1,1 +1,6 @@
-
+{
+  "name": "alves-methods-api",
+  "version": "1.0.0",
+  "description": "API protector for Alves Methods",
+  "main": "api/send.js"
+}
